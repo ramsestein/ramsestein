@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Hospital%20Cl%C3%ADnic-Barcelona-0072CE?style=flat-square" alt="Hospital Clínic de Barcelona">
   <img src="https://img.shields.io/badge/AI%20Research%20Fellow-SNUH%20%C2%B7%20Seoul-CD2E3A?style=flat-square" alt="AI Research Fellow at SNUH">
   <img src="https://img.shields.io/badge/CPHIMS-certified-2E7D32?style=flat-square" alt="CPHIMS certified">
+  <img src="https://img.shields.io/badge/PMP-certified-2E7D32?style=flat-square" alt="PMP certified">
 </p>
 
 ---
